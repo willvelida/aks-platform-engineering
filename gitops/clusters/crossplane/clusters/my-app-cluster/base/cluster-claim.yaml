@@ -28,7 +28,7 @@ spec:
     privateClusterEnabled: false
     azureActiveDirectoryRoleBasedAccessControl:
       - adminGroupObjectIds:
-          - 4e4d0501-e693-4f3e-965b-5bec6c410c03
+          - b99ec8cd-2cb4-4028-a385-0c422873022d
         azureRbacEnabled: true
         managed: true
     azurePolicyEnabled: true
